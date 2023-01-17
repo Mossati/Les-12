@@ -1,0 +1,88 @@
+body{
+  background-color: #abdbe3;
+  color: #063970;
+  padding: 0;
+  margin: 0;
+}
+
+header{
+  background-color: #063970;
+  color: #eeeee4;
+  height: 200px;
+}
+
+footer{
+  background-color: #21130d;
+  color: #873e23;
+  height: 200px;
+}
+
+#cel1{
+  background-color: #9E9764;
+}
+
+#cel2{
+  background-color: #BDECB6;
+}
+
+#cel3{
+  background-color: #C1876B;
+}
+
+#cel4{
+  background-color: #8F8F8F;
+}
+
+#cel5{
+  background-color: #999950;
+  color: #ffd35c;
+}
+
+#cel6{
+  background-color: #8673A1;
+}
+
+#cel7{
+  background-color: #84C3BE;
+  color: #91fffd;
+}
+
+#cel8{
+  background-color: #EC7C26;
+}
+
+#cel9{
+  background-color: #D36E70;
+  color: #fa84a2;
+}
+
+#cel10{
+  background-color: #1E5945;
+}
+
+#cel11{
+  background-color: #FF7514;
+  color: #ffc685;
+}
+
+#cel12{
+  background-color: #89AC76;
+}
+
+#cel13{
+  background-color: #A52019;
+  color: #ff5e5e;
+}
+
+#cel14{
+  background-color: #686C5E;
+}
+
+#cel15{
+  background-color: #6D3F5B;
+  color: #dba5fa;
+}
+
+#cel16{
+  background-color: #6C6874;
+}
